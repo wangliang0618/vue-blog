@@ -1,2 +1,2 @@
-# vue-health
-健康体检项目前台页面，带真实接口绑定。
+# vue-blog
+vue博客项目
